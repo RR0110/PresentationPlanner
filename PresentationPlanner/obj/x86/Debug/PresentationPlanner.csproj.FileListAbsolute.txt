@@ -1,0 +1,11 @@
+c:\users\a.smirnov93\documents\visual studio 2010\Projects\PresentationPlanner\PresentationPlanner\bin\Debug\PresentationPlanner.exe
+c:\users\a.smirnov93\documents\visual studio 2010\Projects\PresentationPlanner\PresentationPlanner\bin\Debug\PresentationPlanner.pdb
+c:\users\a.smirnov93\documents\visual studio 2010\Projects\PresentationPlanner\PresentationPlanner\obj\x86\Debug\PresentationPlanner.Properties.Resources.resources
+c:\users\a.smirnov93\documents\visual studio 2010\Projects\PresentationPlanner\PresentationPlanner\obj\x86\Debug\PresentationPlanner.csproj.GenerateResource.Cache
+c:\users\a.smirnov93\documents\visual studio 2010\Projects\PresentationPlanner\PresentationPlanner\obj\x86\Debug\PresentationPlanner.exe
+c:\users\a.smirnov93\documents\visual studio 2010\Projects\PresentationPlanner\PresentationPlanner\obj\x86\Debug\PresentationPlanner.pdb
+c:\users\a.smirnov93\documents\visual studio 2010\Projects\PresentationPlanner\PresentationPlanner\bin\Debug\PresentationPlanner.BL.dll
+c:\users\a.smirnov93\documents\visual studio 2010\Projects\PresentationPlanner\PresentationPlanner\bin\Debug\PresentationPlanner.BL.pdb
+c:\users\a.smirnov93\documents\visual studio 2010\Projects\PresentationPlanner\PresentationPlanner\obj\x86\Debug\PresentationPlanner.csprojResolveAssemblyReference.cache
+c:\users\a.smirnov93\documents\visual studio 2010\Projects\PresentationPlanner\PresentationPlanner\obj\x86\Debug\PresentationPlanner.MainForm.resources
+C:\Users\a.smirnov93\Documents\Visual Studio 2010\Projects\PresentationPlanner\PresentationPlanner\obj\x86\Debug\PresentationPlanner.Concept.resources

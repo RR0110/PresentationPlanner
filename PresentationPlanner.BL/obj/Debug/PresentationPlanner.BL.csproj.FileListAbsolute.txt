@@ -1,0 +1,4 @@
+c:\users\a.smirnov93\documents\visual studio 2010\Projects\PresentationPlanner\PresentationPlanner.BL\bin\Debug\PresentationPlanner.BL.dll
+c:\users\a.smirnov93\documents\visual studio 2010\Projects\PresentationPlanner\PresentationPlanner.BL\bin\Debug\PresentationPlanner.BL.pdb
+c:\users\a.smirnov93\documents\visual studio 2010\Projects\PresentationPlanner\PresentationPlanner.BL\obj\Debug\PresentationPlanner.BL.dll
+c:\users\a.smirnov93\documents\visual studio 2010\Projects\PresentationPlanner\PresentationPlanner.BL\obj\Debug\PresentationPlanner.BL.pdb
